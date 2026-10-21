@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# Runtime state written by watcher.py
+.processed.json
+
+# Your own transcripts (may contain confidential meeting content) and the
+# generated records. Only the .gitkeep placeholders are tracked.
+transcripts_in/*
+!transcripts_in/.gitkeep
+librechat_file_search/*
+!librechat_file_search/.gitkeep
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
