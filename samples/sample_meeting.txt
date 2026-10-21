@@ -1,0 +1,13 @@
+SYNTHETIC SAMPLE - invented people, client and numbers, for testing only.
+
+Weekly Pipeline Review - 3 March 2026
+
+Alex Morgan: Let's start with the Client A plc renewal. Jordan, where are we?
+Jordan Blake: The client verbally agreed to the renewal last week, but the purchase order is not signed yet. Last quarter we only counted deals with a signed PO as "confident".
+Alex Morgan: A verbal commitment from this client has held up every time so far. I propose we count near-certain deals with a verbal commitment as "confident" from this month onward.
+Maya Fernandes: Fine by me, as long as we note the assumption in the pipeline sheet.
+Alex Morgan: Agreed. Decision made: near-certain deals with a verbal commitment are reclassified as "confident". Jordan, please apply this in the next pipeline update, due Friday.
+Jordan Blake: Will do.
+Alex Morgan: Second topic. Project Atlas needs a reporting dashboard for the client. Nobody has confirmed the data source yet.
+Maya Fernandes: We still need to find out whether the billing data can be exported weekly. That is an open question.
+Alex Morgan: Okay, Maya will check with the finance team and report back next week. We will leave the dashboard scope open until then.
